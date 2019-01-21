@@ -1,4 +1,4 @@
-# d3fc-candle-to-record [![Build status](https://travis-ci.org/strong-roots-capital/d3fc-candle-to-record.svg?branch=master)](https://travis-ci.org/strong-roots-capital/d3fc-candle-to-record) [![npm version](https://img.shields.io/npm/v/d3fc-candle-to-record.svg)](https://npmjs.org/package/d3fc-candle-to-record) [![Code coverage](https://img.shields.io/codecov/c/github.com/strong-roots-capital/d3fc-candle-to-record.svg)](https://codecov.io/gh/strong-roots-capital/d3fc-candle-to-record)
+# d3fc-candle-to-record [![Build status](https://travis-ci.org/strong-roots-capital/d3fc-candle-to-record.svg?branch=master)](https://travis-ci.org/strong-roots-capital/d3fc-candle-to-record) [![npm version](https://img.shields.io/npm/v/d3fc-candle-to-record.svg)](https://npmjs.org/package/d3fc-candle-to-record) [![codecov](https://codecov.io/gh/strong-roots-capital/d3fc-candle-to-record/branch/master/graph/badge.svg)](https://codecov.io/gh/strong-roots-capital/d3fc-candle-to-record)
 
 > Map a d3fc Candle to a talib Record
 
